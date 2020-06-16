@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+    NYT
+
+
+  Created by heba on 11/4/19.
+  Copyright © 2019 Heba. All rights reserved.
+*/
+
+//MARK:- Buttons
+
+"OK" = "Ok";
